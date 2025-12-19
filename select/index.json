@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "新星",
+  "base_artist": "yama",
+  "createdAt": "2025-12-19T11:21:38.224532Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "新星",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_新星_yama.txt"
+    }
+  ]
+}
